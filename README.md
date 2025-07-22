@@ -29,11 +29,7 @@ python sample.py -num 3
 
 We will introduce the tunable backdoor. (Framework of BadReasoner is shown below.)
 
-<embed 
-  src="https://github.com/FZaKK/BadReasoner/raw/main/figs/overview.pdf" 
-  type="application/pdf" 
-  width="100%" 
-  height="600px">
+<iframe src="https://docs.google.com/viewer?url=https://github.com/FZaKK/BadReasoner/raw/main/figs/overview.pdf&embedded=true" style="width:100%; height:600px;" frameborder="0"></iframe>
 
 ### Supervised Fine-Tuning
 Put the json file with overthink samples into the `sample-cot` directory. Then, you can finetune the model
