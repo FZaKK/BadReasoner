@@ -20,9 +20,10 @@ Our work provides two core scripts for generating "overthink" case samples and e
 ## 🔌 API Configuration
 Switch between providers using environment variables.
 
-## ⚠️ Important Notice
+<!--## ⚠️ Important Notice
 
 Due to equipment failure, the following scripts are currently temporarily unavailable and will be added to the repository soon:
 
 - sample.py (to be added shortly)
 - judge.py (to be added shortly)
+-->
